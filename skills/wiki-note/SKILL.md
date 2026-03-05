@@ -1,5 +1,5 @@
 ---
-name: 保存我的个人笔记
+name: save-wiki-note
 description: 将随记的txt笔记整理为结构清晰的Markdown笔记，并分类存入mywiki个人笔记目录中，同时维护index索引。
 ---
 

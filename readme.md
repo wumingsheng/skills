@@ -2,5 +2,5 @@
 
 ```bash
 
-npx skills add https://github.com/wumingsheng/skills --skill wiki_note
+npx skills add https://github.com/wumingsheng/skills --skill save-wiki-note
 ```
